@@ -1,0 +1,13 @@
+#main-message {
+  font-size: 2rem;
+}
+
+#h2{
+  text-align: center;
+  color: crimson; 
+  margin-top: 3rem;
+}
+
+.infoApi{
+  color: rgb(214, 16, 16);
+}
